@@ -1,0 +1,18 @@
+# Archivos CSS generados
+*.css
+public/css/
+
+# Carpeta de dependencias
+node_modules/
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración
+.sass-cache/
+config.rb
